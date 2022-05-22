@@ -10,4 +10,4 @@ Hi there 👋
 
 
 
-<a href="https://www.linkedin.com/in/alandantas-edtech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<a href="https://www.linkedin.com/in/alandantas-edtech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HTML tutorial" ></a>

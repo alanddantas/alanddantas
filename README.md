@@ -1,7 +1,6 @@
 Hi there 👋
 
 
-- 🔭 I’m currently working at [EBAC Online](https://ebaconline.com.br/) 
 - 🌱 I’m currently learning Product Management and Business Analytics
 - 🤔 I’m looking for help with Product Management and Strategies to teach tech in large scale
 - 💬 Ask me about EdTechs, Teaching, Instructional Design, technology, product management, 
